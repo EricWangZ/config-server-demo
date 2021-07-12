@@ -1,0 +1,3 @@
+app:
+  name: go-app
+  search_url: https://cn.bing.com/search?q=%v
