@@ -1,4 +1,4 @@
 app:
   name: go-app
-  search_url: https://wwww.baidu.com/s?wd=%v
-  //   search_url: https://cn.bing.com/search?q=%v
+  // search_url: https://wwww.baidu.com/s?wd=%v
+  search_url: https://cn.bing.com/search?q=%v
